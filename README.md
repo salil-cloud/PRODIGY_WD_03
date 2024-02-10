@@ -3,7 +3,7 @@
 # Tic-Tac-Toe
 
 A simple Tic-Tac-Toe game built with HTML, CSS, and JavaScript.
-visit : 
+visit : https://salil-cloud.github.io/PRODIGY_WD_03/
 
 ## Features
 
@@ -16,7 +16,7 @@ visit :
 
 ## How to Play
 
-1. visit : 
+1. visit : https://salil-cloud.github.io/PRODIGY_WD_03/
 2. Players take turns clicking on empty spaces to mark their symbol (X or O).
 3. The game continues until one player wins or the game ends in a draw.
 4. Click the "Play Again" button to reset the game and start over.
